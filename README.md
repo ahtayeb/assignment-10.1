@@ -1,0 +1,2 @@
+# assignment-10.1
+In this assignment, you will implement your own class based on a real-world object. You will write a class to meet certain requirements and write a short demo program in the main function that highlights all your class variables and methods. Along with this code, you will also create a short README file that describes your class, each of the variables and methods within, and describes the demo program and how to use it.
